@@ -1,0 +1,18 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+.settings/org.eclipse.buildship.core.prefs
+.project
+*.log
+app/.settings/
+app/bin/main/logback.xml
+app/bin/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+app/.classpath
+app/app.jar
+app/account-v1-1.0.0-SNAPSHOT-1223164709.jar
